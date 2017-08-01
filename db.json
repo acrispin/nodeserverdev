@@ -1,0 +1,53 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 2, "title": "json-server2", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 },
+    { "id": 3, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" },
+  "acuerdos": [
+         {
+           "acuerdoComercial": "160930 ",
+           "descripcionCotizacion": "COT. - /OC.- ",
+           "descripcionObra": "MURO DE CONTENCIÓN Y LOSA DE ALMACÉN 5",
+           "importeOriginalSoles": 6475.84,
+           "importeOriginalDolares": 0,
+           "deudaPendienteSoles": 2127.84,
+           "deudaPendienteDolares": 0,
+           "deudaVencidaSoles": 2127.84,
+           "deudaVencidaDolares": 0,
+           "tipoMoneda": "S",
+           "detalle": []
+         },
+         {
+           "acuerdoComercial": "160930 ",
+           "descripcionCotizacion": "COT. - /OC.- ",
+           "descripcionObra": "MURO DE CONTENCIÓN Y LOSA DE ALMACÉN 6",
+           "importeOriginalSoles": 6475.84,
+           "importeOriginalDolares": 0,
+           "deudaPendienteSoles": 2127.84,
+           "deudaPendienteDolares": 0,
+           "deudaVencidaSoles": 2127.84,
+           "deudaVencidaDolares": 0,
+           "tipoMoneda": "S",
+           "detalle": []
+         },
+         {
+           "acuerdoComercial": "160930 ",
+           "descripcionCotizacion": "COT. - /OC.- ",
+           "descripcionObra": "MURO DE CONTENCIÓN Y LOSA DE ALMACÉN 7",
+           "importeOriginalSoles": 6475.84,
+           "importeOriginalDolares": 0,
+           "deudaPendienteSoles": 2127.84,
+           "deudaPendienteDolares": 0,
+           "deudaVencidaSoles": 2127.84,
+           "deudaVencidaDolares": 0,
+           "tipoMoneda": "S",
+           "detalle": []
+         }
+        ]
+}
