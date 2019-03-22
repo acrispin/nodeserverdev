@@ -1,0 +1,6 @@
+{
+  "/api/rest/*": "/$1",    
+  "/inicio/despachos/pedidos-dia/db/buscar/": "/db/",
+  "/inicio/despachos/pedidos-dia/buscar/": "/pedidos/",
+  "/pedidos/buscar": "/pedidos"
+}

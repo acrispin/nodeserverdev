@@ -1,0 +1,6 @@
+{
+  "/pedidos/buscar/*": "/$1",    
+  "/inicio/despachos/pedidos-dia/db/buscar/": "/db/",
+  "/inicio/despachos/pedidos-dia/buscar/": "/pedidos/",
+  "/buscar": "/pedidos"
+}
