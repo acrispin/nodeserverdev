@@ -2087,7 +2087,10 @@
         "disenho": "PL2M300A5S67D",
         "frecuencia": "10.00",
         "latitud": 0,
-        "longitud": 0
+        "longitud": 0,
+          "codigoDespachador": "LMONTES",
+          "nombreDespachador": "LMONTES",
+          "calificacionDespachador": 0
       },
       {
         "codigo": "10",
